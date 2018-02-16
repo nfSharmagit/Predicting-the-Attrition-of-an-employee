@@ -1,9 +1,6 @@
 
 # coding: utf-8
 
-# Human Resource Analytics 
-# 
-# 
 # Reference: 
 # https://www.kaggle.com/ludobenistant/hr-analytics/data
 # 
