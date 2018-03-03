@@ -19,3 +19,5 @@ Fields in the dataset include:
  Departments (column sales)
  Salary
  Whether the employee has left
+ 
+ Technology: Python (Sci-kit learn, Pandas, Numpy, etc)
