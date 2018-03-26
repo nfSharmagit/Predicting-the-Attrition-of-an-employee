@@ -65,7 +65,8 @@ data.info()
 data.dtypes
 
 
-# Sales and Salary attributes are object. To fit machine learning models using dataset,we first need to extract categorical variables and convert them to numeric variables.
+# Sales and Salary attributes are object. To fit machine learning models using dataset,
+# we first need to extract categorical variables and convert them to numeric variables.
 # "pd.get_dummies" helps us in this task.
 
 # In[5]:
@@ -163,7 +164,8 @@ result=logit.fit()
 print(result.summary())
 
 
-# The null (default) hypothesis is always that each independent variable is having absolutely no effect (has a coefficient of 0) and you are looking for a reason to reject this hypothesis.
+# The null (default) hypothesis is always that each independent variable is having absolutely no effect (has a coefficient of 0)
+# and you are looking for a reason to reject this hypothesis.
 # 
 # The p-Value for sales_accounting and sales_support is > 0.05,considering 95% confidence interval.
 # Therefore, we cannot reject null hytpothesis for these two variables.
