@@ -2,7 +2,8 @@
 # coding: utf-8
 
 # Reference: 
-# https://www.kaggle.com/ludobenistant/hr-analytics/data
+# Data: https://www.kaggle.com/ludobenistant/hr-analytics/data
+# Fundamentals: https://towardsdatascience.com/logit-of-logistic-regression-understanding-the-fundamentals-f384152a33d1
 # 
 # Objective:
 # 
